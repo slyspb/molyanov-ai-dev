@@ -157,6 +157,7 @@ Checklist:
 
 ## Rules
 
+- **Language:** Task files MUST be written in English. All section content (Description, What to do, Details, AC, etc.) — in English. Communication with orchestrator — in Russian.
 - Describe concrete outcomes and deliverables for each step
 - Keep steps declarative — focus on WHAT to implement
 - Each task must be atomic (one logical unit of work)
